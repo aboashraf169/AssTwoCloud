@@ -1,0 +1,242 @@
+{
+  "project_info": {
+    "project_number": "500426204461",
+    "project_id": "all-project-b2658",
+    "storage_bucket": "all-project-b2658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500426204461:android:2b09837e348af18c6adfa4",
+        "android_client_info": {
+          "package_name": "com.example.accelerometersensor2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpdaAcAy1sRFOKOmv0JDJU7CsgpeV2nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500426204461:android:f1cd9b0f1e4270f66adfa4",
+        "android_client_info": {
+          "package_name": "com.example.asscloudtwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpdaAcAy1sRFOKOmv0JDJU7CsgpeV2nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500426204461:android:19f42f77b26570e96adfa4",
+        "android_client_info": {
+          "package_name": "com.example.empty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpdaAcAy1sRFOKOmv0JDJU7CsgpeV2nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500426204461:android:a5975d048e99a6ff6adfa4",
+        "android_client_info": {
+          "package_name": "com.example.firebasedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpdaAcAy1sRFOKOmv0JDJU7CsgpeV2nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500426204461:android:17dfd27cc898ee386adfa4",
+        "android_client_info": {
+          "package_name": "com.example.image_firebase_storege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpdaAcAy1sRFOKOmv0JDJU7CsgpeV2nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500426204461:android:0cad8a6a43aaee8a6adfa4",
+        "android_client_info": {
+          "package_name": "com.example.macapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpdaAcAy1sRFOKOmv0JDJU7CsgpeV2nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500426204461:android:195313e4d5b4ad0c6adfa4",
+        "android_client_info": {
+          "package_name": "com.example.magneticfieldsensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpdaAcAy1sRFOKOmv0JDJU7CsgpeV2nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500426204461:android:c65cfcfd9d1180586adfa4",
+        "android_client_info": {
+          "package_name": "com.example.online_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpdaAcAy1sRFOKOmv0JDJU7CsgpeV2nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500426204461-tcenvb7eikavict6uecembv80vl5f10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
